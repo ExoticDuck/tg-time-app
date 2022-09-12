@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ExoticDuck/tg-time-app/static/css/main.6ed65fa9.css",
-    "main.js": "/ExoticDuck/tg-time-app/static/js/main.6f24df83.js",
+    "main.js": "/ExoticDuck/tg-time-app/static/js/main.f9de05e5.js",
     "static/js/787.836aa37c.chunk.js": "/ExoticDuck/tg-time-app/static/js/787.836aa37c.chunk.js",
     "index.html": "/ExoticDuck/tg-time-app/index.html",
     "main.6ed65fa9.css.map": "/ExoticDuck/tg-time-app/static/css/main.6ed65fa9.css.map",
-    "main.6f24df83.js.map": "/ExoticDuck/tg-time-app/static/js/main.6f24df83.js.map",
+    "main.f9de05e5.js.map": "/ExoticDuck/tg-time-app/static/js/main.f9de05e5.js.map",
     "787.836aa37c.chunk.js.map": "/ExoticDuck/tg-time-app/static/js/787.836aa37c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed65fa9.css",
-    "static/js/main.6f24df83.js"
+    "static/js/main.f9de05e5.js"
   ]
 }
