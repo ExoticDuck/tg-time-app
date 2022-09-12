@@ -14,11 +14,11 @@ function App() {
   const [dateValue, setDateValue] = useState<Dayjs | null>(null);
 
   useEffect(() => {
-    telegram.ready();
+    //telegram.ready();
   });
 
   //@ts-ignore
-  const telegram = window.Telegram.WebApp;
+  //const telegram = window.Telegram.WebApp;
 
   const getResult = () => {
     let result = dateValue?.format('L LT').toString();
@@ -39,7 +39,7 @@ function App() {
   const onCheckout = () => {
     //@ts-ignore
     console.log(getResult());
-    telegram.sendData(getResult());
+    //telegram.sendData(getResult());
   }
 
   function generatePosition() {
