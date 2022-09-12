@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tg-time-app/static/css/main.6ed65fa9.css",
-    "main.js": "/tg-time-app/static/js/main.b0e576e3.js",
+    "main.js": "/tg-time-app/static/js/main.ad28f1b4.js",
     "static/js/787.836aa37c.chunk.js": "/tg-time-app/static/js/787.836aa37c.chunk.js",
     "index.html": "/tg-time-app/index.html",
     "main.6ed65fa9.css.map": "/tg-time-app/static/css/main.6ed65fa9.css.map",
-    "main.b0e576e3.js.map": "/tg-time-app/static/js/main.b0e576e3.js.map",
+    "main.ad28f1b4.js.map": "/tg-time-app/static/js/main.ad28f1b4.js.map",
     "787.836aa37c.chunk.js.map": "/tg-time-app/static/js/787.836aa37c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed65fa9.css",
-    "static/js/main.b0e576e3.js"
+    "static/js/main.ad28f1b4.js"
   ]
 }
