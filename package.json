@@ -1,7 +1,7 @@
 {
   "name": "telegram-time-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/ExoticDuck/tg-time-app",
+  "homepage": "https://ExoticDuck/tg-time-app/",
   "private": true,
   "dependencies": {
     "@date-io/dayjs": "^2.15.0",
